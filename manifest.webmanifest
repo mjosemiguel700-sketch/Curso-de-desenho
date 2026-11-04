@@ -1,0 +1,11 @@
+{
+  "name": "Atelier Mangá — Curso & Produção",
+  "short_name": "Atelier Mangá",
+  "description": "Treino diário e produção do primeiro capítulo, novembro de 2026 a julho de 2027.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f1e6",
+  "theme_color": "#1d1917",
+  "lang": "pt-BR",
+  "icons": [{"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
